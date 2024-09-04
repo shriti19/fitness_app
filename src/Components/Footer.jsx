@@ -2,9 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
-        
-    </div>
+    <footer>
+        Designed And Developed By Shriti Chanda
+    </footer>
   )
 }
 
